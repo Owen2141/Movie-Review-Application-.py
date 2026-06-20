@@ -1,4 +1,4 @@
-# 🎬 Movie Mood Analyzer
+# Movie Mood Analyzer
 
 ## Overview
 
