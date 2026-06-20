@@ -1,0 +1,40 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : The Punisher: One Last Kill
+TMDB Rating  : 8.401
+Reviews      : 3
+Generated    : 2026-06-01 16:23:17
+
+Sentiment Breakdown
+-------------------------
+  Negative  : 2 reviews (66.7%)
+  Positive  : 1 reviews (33.3%)
+
+Avg Cosine Similarity : 0.3338
+Avg Token Count       : 60.3
+
+Individual Reviews
+---------------------------------------------
+Author    : rssp55
+Rating    : 2.0/10
+Sentiment : Negative
+Similarity: 0.3703
+Review    : TW: There is an incident of animal abuse in the opening scene. (Skip to five minutes in if you don't want to see it.) Didn't need that. 
+
+It's just meh. 
+
+First off, let me thank whoever concocted
+---------------------------------------------
+Author    : joseferreira1
+Rating    : N/A
+Sentiment : Negative
+Similarity: 0.2914
+Review    : Hated this movie, for a moment I thought it would be about something else but it didn't end up materializing the promise it established in the first few scenes, instead it turned into Temu John Wick. 
+---------------------------------------------
+Author    : Sierbahnn
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.3397
+Review    : It is good to see Frank again.
+This isn't a movie. This is the start of a movie, or maybe the middle of one, with the leadup happening in a flashback. There is no conclusion to the narrative, and no 
+---------------------------------------------

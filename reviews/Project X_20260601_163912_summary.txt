@@ -1,0 +1,22 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : Project X
+TMDB Rating  : 6.896
+Reviews      : 1
+Generated    : 2026-06-01 16:39:13
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 1 reviews (100.0%)
+
+Avg Cosine Similarity : 0.0000
+Avg Token Count       : 12.0
+
+Individual Reviews
+---------------------------------------------
+Author    : rayn_christ
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.0
+Review    : Another legacy from The Hangover and Superbad that goes bigger, even crazier. It is an epic party ever indeed!.
+---------------------------------------------

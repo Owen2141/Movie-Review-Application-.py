@@ -1,0 +1,202 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : The Batman
+TMDB Rating  : 7.66
+Reviews      : 27
+Generated    : 2026-06-01 16:22:23
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 18 reviews (66.7%)
+  Neutral   : 8 reviews (29.6%)
+  Negative  : 1 reviews (3.7%)
+
+Avg Cosine Similarity : 0.3837
+Avg Token Count       : 168.8
+
+Individual Reviews
+---------------------------------------------
+Author    : garethmb
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.5144
+Review    : “The Batman” Is A Very Engaging And Unforgettable Tale That Is One Of The Best Adaptations Of The Character Ever
+
+In 1989 Michael Keaton was seen as a very controversial choice to wear the Cowl of B
+---------------------------------------------
+Author    : The Movie Mob
+Rating    : 8.0/10
+Sentiment : Positive
+Similarity: 0.4286
+Review    : The reviews and hype for this movie were massive!  Comparisons to The Dark Knight got my expectations high... probably a little too high.  I was expecting to be blown away and was not but even with th
+---------------------------------------------
+Author    : Manuel São Bento
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.4343
+Review    : FULL SPOILER-FREE REVIEW @ https://www.msbreviews.com/movie-reviews/the-batman-spoiler-free-review
+
+"The Batman deserves all the hype it generated and then some. Matt Reeves delivers a distinctly da
+---------------------------------------------
+Author    : Chris Sawin
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.2713
+Review    : Paul Dano and Colin Farrell are extraordinary, but _The Batman_ is a three hour slog through Gotham that culminates with an over exaggerated riddle that isn’t worth solving. Having Batman and Jim Gord
+---------------------------------------------
+Author    : edwecks
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.0403
+Review    : Masterpiece. Best DC film yet
+---------------------------------------------
+Author    : jwilliams0511971
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4
+Review    : _**"Our scars can destroy us, even after the physical wounds have healed. But if we survive them, they can transform us. They can give us the power to endure, and the strength to fight."**_
+
+Ever si
+---------------------------------------------
+Author    : r96sk
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.3379
+Review    : It's a cracker, no doubt about it!
+
+Matt Reeves did a great job with 2022's <em>'The Batman'</em>. It's difficult not to compare this to other Batman films, though that's DC/Warner Bros. fault for f
+---------------------------------------------
+Author    : Tatsky
+Rating    : 8.0/10
+Sentiment : Positive
+Similarity: 0.4979
+Review    : I like how Batman is depicted with a naive and loser POV from his rich high tower, a rich trust fund baby called out by both sane (Catwoman) and insane (Riddler) people while he remains oblivious unti
+---------------------------------------------
+Author    : aquiluus
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3705
+Review    : This film is so intricate, there's so many details, things you can obverse on multiple watches and not have noticed on your first. There's a lot of things that just aren't spoken that give this film s
+---------------------------------------------
+Author    : Aqueronte72
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.4995
+Review    : > Enormous mass that is per se a riddle. Forget screenplay, it's a comic storyboard; Do you remember Rorschach, from Moore's Watchmen, ruminating in the sewers?, ok, transpolate Batman and it works! N
+---------------------------------------------
+Author    : CinemaSerf
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.4411
+Review    : OK, shoot me now - but you can tell when you are watching a film at the cinema and the audience start to get a bit restless. Well mine did with this overlong, and frankly rather dreary film. The openi
+---------------------------------------------
+Author    : JPV852
+Rating    : 8.0/10
+Sentiment : Positive
+Similarity: 0.3392
+Review    : Good albeit not great, this newest incarnation of Batman is well done if not also incredibly dark. I did like Robert Pattinson's portrayal and didn't employ the annoying voice that kind of ruined The 
+---------------------------------------------
+Author    : Horseface
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.4829
+Review    : I am so tired of superhero movies. Still, being down with a mild case of Corona, I wanted something to watch that'd go down easy, and The Batman was available, so I picked it.
+
+I have to say that th
+---------------------------------------------
+Author    : Peter McGinn
+Rating    : 8.0/10
+Sentiment : Positive
+Similarity: 0.4018
+Review    : Oh boy, yet another review here on TMDB about this movie. What is it about comic books that garners so much interest? I am no longer a comic hero fan, either in movies or the source comic books. I hav
+---------------------------------------------
+Author    : mahmus
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4538
+Review    : _The Batman_ is the best live-action Batman movie yet. It's the type of Batman film I've been waiting for my whole life.
+
+It's dark and realistic, but also stylish and large-scale. It's not limited 
+---------------------------------------------
+Author    : Kay Cee
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.2853
+Review    : The movie was one of the best Batman movies in my opinion, but, I honestly didn't like thus portrayal of Batman. This didn't feel like Batman, more like BatDude. Like a man in real life that grew up w
+---------------------------------------------
+Author    : Nathan
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2787
+Review    : Batman returns back to its detective roots, and it is a breath of fresh air. Robert Patterson is stunning as Batman. The twists and turns the new Riddler take is a fun ride.
+
+**Verdict:** _Masterpie
+---------------------------------------------
+Author    : Dark Jedi
+Rating    : 4.0/10
+Sentiment : Neutral
+Similarity: 0.4308
+Review    : To be honest, this is a really good movie. Hang on? So why did I only give it 2 out of 5 stars? Well, this is really personal but, to me, it is not a good Batman movie. I really had problems writing t
+---------------------------------------------
+Author    : tmdb28039023
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.4652
+Review    : The Batman is not a terribly bad movie, but it would be twice as good if it were half as long. How a film that likes to take shortcuts – especially with the Riddler’s ‘riddles’ – can still take almost
+---------------------------------------------
+Author    : Dean
+Rating    : 3.0/10
+Sentiment : Negative
+Similarity: 0.2905
+Review    : This was the worst Batman I have ever seen. 
+
+Firstly, Robert Pattinson was the worst choice for the Batman role. In Twilight he was alright, but in Batman he definitely failed. He was more like a s
+---------------------------------------------
+Author    : Robbie Grawey
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.2784
+Review    : After spending most of today struggling to edit, this was such a cool way to spend my evening. Big theater, fantastic film. 
+
+Outstanding visuals, dreamy atmosphere, great cast, and pitch-perfect ac
+---------------------------------------------
+Author    : Andre Gonzales
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.353
+Review    : Next too batman and Robin this has to be the 2nd most dumbest batman movie ever made. Robert Patterson made an alright batman but completely sucked at being Bruce Wayne. When he was Bruce Wayne it was
+---------------------------------------------
+Author    : mmb95
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.3402
+Review    : The best Batman film since the Dark Knight, and probably the most comic accurate depiction of the character to date.
+---------------------------------------------
+Author    : TheTenth
+Rating    : N/A
+Sentiment : Neutral
+Similarity: 0.436
+Review    : not worth the hype.
+Main problem(s) is the choice of cast.
+Pattinson is now an adult that improved his hysical condition. But he still needs 300% more muscle to look like Batman. And his face didn't
+---------------------------------------------
+Author    : RalphRahal
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.4896
+Review    : The Batman (2022) is a movie that had the potential to redefine the Dark Knight’s legacy on screen. With a talented cast, stunning cinematography, and a noir-inspired tone, it promised a grounded and 
+---------------------------------------------
+Author    : CrazyJekyll
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4697
+Review    : **_"Fear is a tool. When that light hits the sky. It’s not just a call. It’s a warning"_**
+
+The Batman is an action-packed Neo-Noir Mystery Crime Drama that FINALLY captures the essence and characte
+---------------------------------------------
+Author    : Jstewart2007
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3289
+Review    : It’s beautiful! With amazing visuals and cinematography, powerful score, fantastic acting, a great script, and a perfect vision from director Matt Reeves, this is an instant classic that immediately b
+---------------------------------------------

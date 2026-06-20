@@ -1,0 +1,75 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : Star Wars
+TMDB Rating  : 8.205
+Reviews      : 8
+Generated    : 2026-05-30 02:59:36
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 8 reviews (100.0%)
+
+Avg Cosine Similarity : 0.4051
+Avg Token Count       : 137.5
+
+Individual Reviews
+---------------------------------------------
+Author    : Cat Ellington
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.471
+Review    : (As I'm writing this review, Darth Vader's theme music begins to build in my mind...)
+
+Well, it actually has a title, what the Darth Vader theme. And that title is "The Imperial March", composed by 
+---------------------------------------------
+Author    : John Chard
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4841
+Review    : A long time ago in a childhood not too far away...
+
+Princess Leia is captured and held hostage by the Imperial Army as it seeks to rule the Galactic Empire. An old Jedi Knight by the name of Ben "Ob
+---------------------------------------------
+Author    : gastyny
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4135
+Review    : Star Wars (1977) is a true masterpiece of cinema, and is 
+  definitely one of the best films ever made.
+
+For me Star Wars (1977) is the best movie of all time,tied with The Lord of the Rings trilog
+---------------------------------------------
+Author    : r96sk
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.3805
+Review    : A quality start to the franchise.
+
+I say start, I guess that depends on the (seemingly) controversial way of watching these films - I've decided on release order, so it's the beginning for me anyway
+---------------------------------------------
+Author    : GenerationofSwine
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4776
+Review    : Everyone and their mother is going to write reviews about the Star Wars movies...and this one, this one actually came out before I was born.
+
+It breaks the heart. I had to wait until the re-release 
+---------------------------------------------
+Author    : CinemaSerf
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.3728
+Review    : Thinking back to the films that define my generation; I recall queuing round the cinema as an excited 10 year old for two hours waiting to see this film. I wonder how many people could say that they h
+---------------------------------------------
+Author    : Flopmeister2000
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.2465
+Review    : What can be said about this movie that hasn't already been said? It simply is the greatest movie of all time. Everything about it is an absolute game-changer and redefined cinema for decades to come.
+---------------------------------------------
+Author    : userloser
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.395
+Review    : Back in the early 80s when we were still kids and "Star Wars" finally ducked under the Iron Curtain, there was nothing to compare it to. Decades later we learned it was the magic of the gifted post-pr
+---------------------------------------------

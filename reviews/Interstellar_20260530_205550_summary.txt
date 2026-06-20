@@ -1,0 +1,151 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : Interstellar
+TMDB Rating  : 8.475
+Reviews      : 20
+Generated    : 2026-05-30 20:55:50
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 17 reviews (85.0%)
+  Neutral   : 3 reviews (15.0%)
+
+Avg Cosine Similarity : 0.3487
+Avg Token Count       : 142.8
+
+Individual Reviews
+---------------------------------------------
+Author    : Reno
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.4882
+Review    : Well, one off from two of this year's most expected movies alongside 'The Battle of Five Armies'. Like all the Chris Nolan fans, I was equally excited to see the movie on the opening day opening show.
+---------------------------------------------
+Author    : decovision
+Rating    : 9.5/10
+Sentiment : Positive
+Similarity: 0.42
+Review    : People seem to think that if you enjoy a Christopher Nolan movie, you are a fanboy and the film couldn't really be that good. That is not true. He has never made a bad movie, Insomnia is probably his 
+---------------------------------------------
+Author    : Andres Gomez
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.3728
+Review    : Another grandiloquent movie from Christoper Nolan.
+
+The cast is good, and McConaughey performs a role made for himself. The photography is very nice but the movie commits all the same mistakes than 
+---------------------------------------------
+Author    : Asadullah Khan
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4945
+Review    : "Man kind was born on earth, it was never meant to die here."
+
+IT has been two days since I watched it and I still can't get it out of my head. I can safely say that it has been a long LONG time sin
+---------------------------------------------
+Author    : shaunfrombklyn
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3751
+Review    : This was my most anticipated film of 2014, and I was not disappointed. 
+
+The story was slightly difficult to follow on the first watch, but that was to be expected in a film dealing with complicated
+---------------------------------------------
+Author    : Dark Jedi
+Rating    : 4.0/10
+Sentiment : Neutral
+Similarity: 0.4359
+Review    : That this movie, at the time of writing this, holds an 8.8 rating at IMDb is simply beyond my understanding. Needless to say I did not really like this movie. The story is not very good, the science i
+---------------------------------------------
+Author    : akashmahajan
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1691
+Review    : Again hit produced by christopher nolan after batman.
+Storyline is great and also the science theory is perfectly showcased.
+---------------------------------------------
+Author    : sybddlatfu
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.4105
+Review    : This might contain spoilers!
+---
+Interstellar is my favorite movie. I'm really into space and everything about it, so this movie was my cup of tea. 
+The soundtrack is the best of the movie. It poin
+---------------------------------------------
+Author    : Matthew Brady
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.4394
+Review    : "Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light".
+
+The story is about a team of explorers undertakes the most importan
+---------------------------------------------
+Author    : Peter McGinn
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.4283
+Review    : I will not add another in depth review to the several I see here on this movie. Nor will I try to evaluate the accuracy of the science behind the plot. Apparently a physicist was involved who had veto
+---------------------------------------------
+Author    : kheirnandez
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3612
+Review    : I've got to say I have been wanting to watch this film for a while now and well it's 2021 and it's a Saturday morning and damn, safe to say this is one of the best films I have ever watched in my life
+---------------------------------------------
+Author    : lowkimhoe
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.2688
+Review    : It opens my mind after I watched this movie. I have watched it twice to figure out everything on the movie. Basically, this is the movie talking about earth is not a good place to stay anymore. People
+---------------------------------------------
+Author    : CinemaSerf
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.4064
+Review    : As humanity faces an existential crisis, farmer "Cooper" (Matthew McConaughey) and his family are fighting a losing battle against an environment determined to destroy what is left of their corn crop.
+---------------------------------------------
+Author    : tropicalicecedar
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.252
+Review    : This mind-bending sci-fi masterpiece took me on an unforgettable journey through space and time. From its breathtaking visuals to the captivating performances, the film had me hooked from start to fin
+---------------------------------------------
+Author    : r96sk
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3273
+Review    : What a cracker!
+
+So glad to finally tick <em>'Interstellar'</em> off my theoretical list, took me far too long to get around to it but boy am I glad I finally have done - sensational film! The most 
+---------------------------------------------
+Author    : madriyanto
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.4076
+Review    : Christopher Nolan's "Interstellar" (2014) isn't just a science fiction film; it's a cinematic experience that transcends genre boundaries. It's a breathtaking exploration of humanity's yearning for su
+---------------------------------------------
+Author    : RalphRahal
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4596
+Review    : "Interstellar" is easily one of the best movies I’ve ever watched, definitely in my top 5 of all time. It’s a masterpiece that feels like every scene matters. Each moment carries an important message,
+---------------------------------------------
+Author    : Dean
+Rating    : 4.0/10
+Sentiment : Neutral
+Similarity: 0.0291
+Review    : Boring crap.
+---------------------------------------------
+Author    : Sentinel
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3556
+Review    : This film is a wonderful piece of art that masterfully balances emotion with science. I really liked the way the story progressed; it begins by beautifully establishing the protagonist's deep bond wit
+---------------------------------------------
+Author    : userloser
+Rating    : 4.0/10
+Sentiment : Neutral
+Similarity: 0.0731
+Review    : Great visuals, convoluted plot, no substance. Not sure if longer than boring or more boring than long.
+---------------------------------------------

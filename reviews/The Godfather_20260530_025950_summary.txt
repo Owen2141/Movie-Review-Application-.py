@@ -1,0 +1,57 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : The Godfather
+TMDB Rating  : 8.687
+Reviews      : 6
+Generated    : 2026-05-30 02:59:50
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 5 reviews (83.3%)
+  Negative  : 1 reviews (16.7%)
+
+Avg Cosine Similarity : 0.3407
+Avg Token Count       : 114.8
+
+Individual Reviews
+---------------------------------------------
+Author    : futuretv
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4379
+Review    : The Godfather Review by Al Carlson
+
+The Godfather is a film considered by most to be one of the greatest ever made. From The American Film Institute to as voted by users on the Internet Movie Databa
+---------------------------------------------
+Author    : crastana
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3816
+Review    : The best movie ever...
+A masterpiece by the young and talented Francis Ford Coppola, about a Mob family and their drama, the story telling is perfect, the acting good, sometimes a little over the top
+---------------------------------------------
+Author    : drystyx
+Rating    : 1.0/10
+Sentiment : Negative
+Similarity: 0.3613
+Review    : While I'm writing this, The Godfather is still beloved by people who love it simply because they are told they have to love it. 
+It's written by a mobster with the sole intention of depicting the lea
+---------------------------------------------
+Author    : CinemaSerf
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.3792
+Review    : When you get a story written quite this magnificently it would take an extreme amateur to screw it up - and Francis Ford Coppola is no amateur. Marlon Brando, Al Pacino, James Caan and Robert Duvall r
+---------------------------------------------
+Author    : Surya
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.063
+Review    : Great Movie **Ever**
+---------------------------------------------
+Author    : RalphRahal
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.4212
+Review    : The Godfather (1972), directed by the legendary Francis Ford Coppola, is nothing short of a cinematic masterpiece that redefined storytelling in film. Based on Mario Puzo’s bestselling novel, the movi
+---------------------------------------------

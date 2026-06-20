@@ -1,0 +1,100 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : Mortal Kombat
+TMDB Rating  : 7.033
+Reviews      : 12
+Generated    : 2026-05-30 02:59:30
+
+Sentiment Breakdown
+-------------------------
+  Neutral   : 6 reviews (50.0%)
+  Positive  : 4 reviews (33.3%)
+  Negative  : 2 reviews (16.7%)
+
+Avg Cosine Similarity : 0.3210
+Avg Token Count       : 129.3
+
+Individual Reviews
+---------------------------------------------
+Author    : tmdb79614358
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2096
+Review    : I will be short. You should understand how hard to make movies based on such a legendary universe (expectation is too high!), with a lot of characters that need screen time, and with limited budget, P
+---------------------------------------------
+Author    : garethmb
+Rating    : N/A
+Sentiment : Neutral
+Similarity: 0.4068
+Review    : Mortal Kombat Gives Fans Of The Franchise The Brutal Live-Action Version They Deserve
+Fans of the Mortal Kombat series have known that the path to bringing the violent and controversial game to live-
+---------------------------------------------
+Author    : Manuel São Bento
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.4262
+Review    : If you enjoy reading my Spoiler-Free reviews, please follow my blog @
+https://www.msbreviews.com
+
+Even though I consider myself somewhat of a gamer, I was never the biggest fan of the Mortal Kombat
+---------------------------------------------
+Author    : sykobanana
+Rating    : 7.0/10
+Sentiment : Positive
+Similarity: 0.3627
+Review    : I liked this more than I should have.  
+
+I have tried the games, but am not into the fighting genre of games (although the Injustice series grabbed me for its story).  The previous movies were fun a
+---------------------------------------------
+Author    : JPV852
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.2142
+Review    : Fluff entertainment at its most bland. The fighting is pretty forgettable but at least they utilized the R rating for some decent gore that honors the game at least. Acting is at best so-so while the 
+---------------------------------------------
+Author    : Chris
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2197
+Review    : Okay so let's start by saying I wasn't exactly sure what to think going into this movie I didn't know what was going to happen but wow this is one of the best action films of the decade so far yeah it
+---------------------------------------------
+Author    : Rene
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.2243
+Review    : OK LETS start off with if you have not watched the latest animations of mortal kombat this will movie will make you feel abit effy. You will need more background on the actual characters you know from
+---------------------------------------------
+Author    : Martha
+Rating    : 5.0/10
+Sentiment : Neutral
+Similarity: 0.336
+Review    : I've played Mortal Kombat since it first came out. I watched the original movies in the theaters. I had high hopes that maybe a reboot would make it feel fresh and maybe establish it as a darker genre
+---------------------------------------------
+Author    : tmdb28039023
+Rating    : 1.0/10
+Sentiment : Negative
+Similarity: 0.3746
+Review    : Mortal Kombat is not just too long for a movie based on a fighting video game; it’s actually too dumb to even be a movie based on a fighting video game. On the one hand it does a Resident Evil, introd
+---------------------------------------------
+Author    : GenerationofSwine
+Rating    : 1.0/10
+Sentiment : Negative
+Similarity: 0.3852
+Review    : OK... my wife is the Mortal Kombat fan of the family, and the fighting game fan of the family. So this should really be her review... because I'm just going to trash it.
+
+The problem here is plot, a
+---------------------------------------------
+Author    : The Movie Mob
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.3905
+Review    : <b>Mortal Kombat shows off some amazing design and stunt work, but the writing keeps it from everything fans wanted it to be. Hopefully, the sequel will learn from these shortcomings.</b>
+
+I would b
+---------------------------------------------
+Author    : james4715
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.3023
+Review    : Enjoyed it overall but the story was meh. Loved that they had goro and other characters and that they also alluded to characters like kitana by showing off her fan and stuff. I wish that there was a t
+---------------------------------------------

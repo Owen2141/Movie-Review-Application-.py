@@ -1,0 +1,146 @@
+Movie Mood Analyzer — Results Summary
+=============================================
+Movie        : The Shawshank Redemption
+TMDB Rating  : 8.721
+Reviews      : 20
+Generated    : 2026-05-30 03:00:10
+
+Sentiment Breakdown
+-------------------------
+  Positive  : 17 reviews (85.0%)
+  Neutral   : 2 reviews (10.0%)
+  Negative  : 1 reviews (5.0%)
+
+Avg Cosine Similarity : 0.1832
+Avg Token Count       : 59.8
+
+Individual Reviews
+---------------------------------------------
+Author    : elshaarawy
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.0663
+Review    : very good movie 9.5/10 محمد الشعراوى
+---------------------------------------------
+Author    : John Chard
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.3136
+Review    : Some birds aren't meant to be caged.
+
+The Shawshank Redemption is written and directed by Frank Darabont. It is an adaptation of the Stephen King novella Rita Hayworth and Shawshank Redemption. Star
+---------------------------------------------
+Author    : tmdb73913433
+Rating    : 6.0/10
+Sentiment : Neutral
+Similarity: 0.0619
+Review    : Make way for the best film ever made people. **Make way.**
+---------------------------------------------
+Author    : thommo_nz
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2176
+Review    : There is a reason why this movie is at the top of any popular list your will find.
+Very strong performances from lead actors and a story line from the literary brilliance of Stephen King (and no, its
+---------------------------------------------
+Author    : Andrew Gentry
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1803
+Review    : It's still puzzling to me why this movie exactly continues to appear in every single best-movies-of-all-time chart. There's a great story, perfect cast, and acting. It really moves me in times when I'
+---------------------------------------------
+Author    : Matthew Dixon
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1994
+Review    : I will not say that the film is predictable, because it is not quite so, due to the fact that we only know Andy’s intentions at the end, and during the film, it is important to understand that there w
+---------------------------------------------
+Author    : JPV852
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2269
+Review    : First time seeing this in probably close to 20 years, maybe longer. Forgot how excellent of a movie this was, amazing all around from the performances, Morgan Freeman and Tim Robbins especially, with 
+---------------------------------------------
+Author    : LƛȤƛƦꪡƬƑ
+Rating    : N/A
+Sentiment : Neutral
+Similarity: 0.147
+Review    : No 1 movie for all the time
+---------------------------------------------
+Author    : drystyx
+Rating    : 3.0/10
+Sentiment : Negative
+Similarity: 0.2579
+Review    : This is much more predictable and Hollywood than a King novel.
+This story of another man wrongfully in prison for murder joins the list of about every other movie about a man sent to prison for murde
+---------------------------------------------
+Author    : Sanjeev0805
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1185
+Review    : This movie is great
+---------------------------------------------
+Author    : CinemaSerf
+Rating    : 8.0/10
+Sentiment : Positive
+Similarity: 0.2346
+Review    : Tim Robbins is wealthy banker "Andy Dufresne" who finds himself sentenced to life imprisonment after his wife and her lover are found murdered. The handsome "new fish" is initially the target of the "
+---------------------------------------------
+Author    : dumasori
+Rating    : 9.0/10
+Sentiment : Positive
+Similarity: 0.1957
+Review    : **Watched it 32 times**
+
+Call me obsessed, but I have watched this movie 32 times (and counting) over the past 2 decades. One may wonder why? It is because every time I watch this movie, I learn som
+---------------------------------------------
+Author    : Angel Rodríguez
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.083
+Review    : Amazing movie
+---------------------------------------------
+Author    : khanz1
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.2322
+Review    : This movie is an absolute masterpiece, blending deep emotion and powerful storytelling. It follows the journey of a banker wrongfully imprisoned, whose enduring hope and resilience inspire everyone ar
+---------------------------------------------
+Author    : Leezan
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.1244
+Review    : Simple, I would say, beauty in the art of cinematography and storytelling.
+---------------------------------------------
+Author    : sachin_13
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1732
+Review    : The Shawshank Redemption is a timeless masterpiece, blending powerful performances with a poignant narrative about hope and friendship. Tim Robbins and Morgan Freeman deliver unforgettable performance
+---------------------------------------------
+Author    : RalphRahal
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2949
+Review    : The Shawshank Redemption is one of those timeless classics that pulls you in with its heartfelt storytelling and remarkable performances. At its core, it’s a story about hope, friendship, and the resi
+---------------------------------------------
+Author    : Kelvin_ricky
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.0669
+Review    : **Wow amazing movie **
+---------------------------------------------
+Author    : GenerationofSwine
+Rating    : 10.0/10
+Sentiment : Positive
+Similarity: 0.2756
+Review    : Morgan Freeman plays a little red haired Irishman and no one cares.  No one cares, and now when people across the globe read this segment in Different Seasons, they read it in Morgan Freeman's voice. 
+---------------------------------------------
+Author    : M
+Rating    : N/A
+Sentiment : Positive
+Similarity: 0.1942
+Review    : Hope, strength of character, self-worth and the loss of it at the same time… friendship, brotherhood, and every human emotion in this life 🤍.
+
+On my first watch of this film, I had no idea about its
+---------------------------------------------
